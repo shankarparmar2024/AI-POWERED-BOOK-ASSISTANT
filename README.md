@@ -230,7 +230,7 @@ pip install -r requirements.txt
 
 ## 👨‍💻 Author
 
-**SHANKAR SUMAN SINGH PARMAR **
+*SHANKAR SUMAN SINGH PARMAR **
 📌 **MCA Student at Guru Gobind Singh Indraprastha University (JIMS SEC-5)**
 🎯 LIVE PROJECT 
 
