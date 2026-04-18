@@ -1,0 +1,7 @@
+Django==6.0.4
+djangorestframework
+django-cors-headers
+sentence-transformers
+numpy
+torch
+transformers
